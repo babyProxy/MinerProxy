@@ -63,7 +63,7 @@ chmod +x babyProxy
 - session运行：
   ```bash
   chmod +x babyProxy_web
-  bash ./babyProxy_web
+  ./babyProxy_web
   ```
 - 后台持久化运行：
   ```bash
